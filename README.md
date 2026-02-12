@@ -10,6 +10,6 @@
 **📋 Description:** Text ...  
 **🛠 Tools:** Tableau Public  
 
-**📂 Project-0003v**— Project name  
+**📂 Project-0003v** — Project name  
 **📋 Description:** Text ...  
 **🛠 Tools:** Power BI  
