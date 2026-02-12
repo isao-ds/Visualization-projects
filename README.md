@@ -3,9 +3,13 @@
 
 #### 📂 Project-0001v — Project name
 #### 📋 Description: Text ...
-#### 🔧 Tools: Python (Pandas, NumPy) 
+#### 🔧 Tools: Looker Studio
 ---
 #### 📂 Project-0002v — Project name
 #### 📋 Description: Text ...
-#### 🛠 Tools: Python (Pandas, NumPy) 
+#### 🛠 Tools: Tableau Public 
+---
+#### 📂 Project-0003v — Project name
+#### 📋 Description: Text ...
+#### 🛠 Tools: Power BI 
 ---
