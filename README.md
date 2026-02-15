@@ -1,4 +1,4 @@
-![Visualization projects](https://github.com/isao-ds/Visualization-projects/raw/main/viz-repository-logo.png)
+![Visualization projects](https://github.com/isachenko-andrii/Visualization-projects/raw/main/viz-repository-logo.png)
 🧑‍💻 List of projects:
 ---
 
