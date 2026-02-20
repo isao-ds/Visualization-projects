@@ -1,4 +1,4 @@
-![Visualization projects](https://github.com/isachenko-andrii/Visualization-projects/raw/main/viz-repository.png)
+![Visualization projects](https://github.com/isachenko-andrii/Visualization-projects/raw/main/Visualization-projects.png)
 🧑‍💻 List of projects:
 ---
 
